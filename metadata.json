@@ -1,0 +1,6 @@
+{
+  "name": "47 Agency",
+  "description": "Digital growth and technology partner combining marketing performance, software engineering, and artificial intelligence to help businesses scale and operate efficiently worldwide",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

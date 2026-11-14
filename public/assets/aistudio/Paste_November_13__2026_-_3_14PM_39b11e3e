@@ -1,0 +1,1044 @@
+# FINAL WEBSITE REVISION & DELIVERY INSTRUCTIONS — 47 AGENCY
+
+You are working on the existing 47 Agency website project.
+
+Your task is to complete a carefully controlled, professional revision of the website, correct its content and design issues, improve consistency and user experience, verify all pages and functionality, and deliver the complete editable source project as a downloadable ZIP.
+
+This is a revision of an existing project, NOT permission to rebuild the website from scratch or redesign everything.
+
+The most important requirements are:
+- Preserve the existing approved design wherever explicitly required.
+- Improve the pages that need improvement.
+- Keep every page consistent with the same visual identity.
+- Remove unnecessary content and unsupported claims.
+- Avoid the generic AI-generated website appearance.
+- Never allow changes to one page to break another page.
+- Deliver the entire working project, not just a preview or screenshots.
+
+---
+
+# 1. CRITICAL SCOPE RULES — READ BEFORE MODIFYING ANYTHING
+
+Before making changes, inspect the complete existing project, its page structure, routing, components, assets, styles, animations, and functionality.
+
+Create an internal map of:
+- All existing pages and routes
+- Shared components
+- Navigation and dropdown menus
+- Footer components
+- Typography and design tokens
+- Page-specific layouts
+- Interactive components
+- Forms and integrations
+- Assets and animations
+
+Do not start editing until you understand how the pages depend on one another.
+
+## Strict change boundaries
+
+Only modify the pages, content, typography, and visual elements covered by these instructions.
+
+Do not:
+- Rebuild the entire website.
+- Change unrelated pages.
+- Replace existing components unnecessarily.
+- Break existing routes or navigation.
+- Remove working functionality without a specific reason.
+- Change the Start a Project form.
+- Change integrations or submission behavior.
+- Invent new pages, services, case studies, clients, or business claims.
+- Replace the existing brand identity with a different design direction.
+
+If a change to a shared component is necessary, verify every page using that component afterward.
+
+Keep all unrelated functionality and content intact.
+
+---
+
+# 2. GLOBAL TYPOGRAPHY AND DESIGN SYSTEM
+
+The current typography looks overly AI-generated, particularly the small labels, technical-looking text, and some headings.
+
+Replace the current font system with a professional, modern, readable typeface suitable for a premium digital marketing and software engineering agency.
+
+Requirements:
+- Use a consistent professional font family throughout the entire website.
+- Select suitable weights for headings, body text, navigation, and buttons.
+- Avoid excessively bold or exaggerated typography.
+- Avoid decorative futuristic fonts.
+- Improve readability at normal desktop and mobile sizes.
+- Ensure consistent line height, letter spacing, and text hierarchy.
+- Keep headings visually strong without making every element bold.
+- Ensure body text is comfortable to read.
+
+Use one coherent typography system rather than mixing unrelated fonts.
+
+## Purple labels and small technical headings
+
+Review the small purple uppercase labels appearing above many headings.
+
+Some examples include:
+- SECTION 01
+- PHASE 01
+- DIGITAL CORE
+- SYSTEM ARCHITECTURE
+- TECHNICAL BLUEPRINT
+- Other numbered or technical-looking labels
+
+These currently make many pages look automatically generated.
+
+Do not remove every small label indiscriminately.
+
+Instead:
+- Remove unnecessary numbering and artificial section labels.
+- Remove labels that repeat information already explained in the heading.
+- Retain only labels that genuinely improve navigation or understanding.
+- Make retained labels neutral, restrained, and consistent.
+- Avoid excessive uppercase text and unnecessary technical microcopy.
+- Do not use purple labels as decoration above every section.
+
+The purple accent should primarily identify interactive elements, selected states, and meaningful visual details.
+
+## Overall visual direction
+
+Maintain the existing premium dark identity:
+- Near-black backgrounds
+- Deep purple and restrained violet accents
+- Subtle borders and controlled glow
+- Clean layouts
+- Clear hierarchy
+- Generous whitespace
+- Consistent rounded cards where appropriate
+
+Avoid:
+- Excessive neon glow
+- Too many bordered cards
+- Unnecessary decorative elements
+- Dense layouts
+- Excessive small text
+- Repetitive visual patterns
+- Generic AI-generated design patterns
+
+The website should feel like a professionally designed agency website, not an AI-generated template.
+
+---
+
+# 3. MOST IMPORTANT CONTENT AND LAYOUT RULE
+
+The website currently contains too much text in many places.
+
+Review every page and remove unnecessary sentences, repetitive descriptions, filler paragraphs, and redundant labels.
+
+Do not assume that more content makes a page better.
+
+The goal is to communicate clearly using less text.
+
+Every page must have:
+- One clear primary message
+- A strong and understandable heading
+- A short supporting explanation where needed
+- Clear visual hierarchy
+- Consistent spacing
+- A logical content flow
+- A clear next action where appropriate
+
+Avoid placing too much text on both the left and right sides simultaneously.
+
+Do not create layouts where multiple paragraphs, labels, cards, and descriptions compete for attention.
+
+Use whitespace intentionally.
+
+If a paragraph does not add meaningful information, remove it.
+
+If two sections communicate the same thing, consolidate them.
+
+If a card contains unnecessary explanation, simplify it.
+
+Keep the website calm, balanced, readable, and visually attractive.
+
+---
+
+# 4. HOMEPAGE — STRICT PRESERVATION RULE
+
+The homepage is already approved visually.
+
+This includes:
+- The main landing hero
+- The animated 47 mesh logo
+- The existing background and network effects
+- The hero paragraph
+- The CTA buttons
+- The Three Integrated Disciplines section below the hero
+- The Digital Marketing, Custom Software Engineering, and AI Solutions presentation
+- The existing Connected Operating Approach section and its visual structure
+
+DO NOT redesign these sections.
+
+DO NOT change their layout, dimensions, positioning, visual composition, background, animation, content structure, or CTA placement.
+
+DO NOT replace the existing animated 47 mesh logo or alter its geometry, shape, animation, lighting, or colors.
+
+The only permitted modification in these homepage sections is the global font replacement and the necessary typography adjustments that preserve the existing visual composition.
+
+Do not introduce additional animations or visual elements into the homepage.
+
+If text appears factually incorrect, record it for review rather than changing approved homepage copy without authorization.
+
+---
+
+# 5. ABOUT SECTION — REVISE THE PAGES
+
+The About section includes:
+- Our Story
+- Our Philosophy
+- Our Approach
+- The 47 Method
+- Our Values
+- Brand Identity System
+
+These pages need content and visual refinement.
+
+Keep the existing general dark brand direction, but improve the page layouts where needed.
+
+## Our Story
+
+Current main positioning:
+
+Engineering Digital Growth.
+
+The page explains why 47 Agency combines digital marketing, software engineering, and AI.
+
+Review the text and remove repetition, unnecessary explanations, and claims that cannot be supported.
+
+Do not invent company history, achievements, clients, or milestones.
+
+Keep the message concise and credible.
+
+## Our Philosophy
+
+Retain the main philosophy, but simplify the presentation.
+
+The current themes include:
+- Mathematical Rigor
+- Clean Engineering
+- Pragmatic AI
+
+Keep these concepts if their descriptions accurately reflect the company's actual approach.
+
+Improve the cards and spacing.
+
+Avoid excessive descriptions inside the cards.
+
+## Our Approach
+
+Keep the general delivery concept:
+
+Discovery → Architecture → Engineering → Optimization
+
+Retain the structured approach, but improve its visual presentation.
+
+The current four stages can remain if their content accurately reflects how the agency works.
+
+Avoid artificial technical descriptions and unnecessary phase numbering.
+
+Use a clear visual process with appropriate spacing.
+
+A subtle animation connecting the stages may be used if it improves understanding.
+
+## The 47 Method
+
+IMPORTANT: KEEP THIS PAGE.
+
+Do not remove or rename The 47 Method.
+
+Retain its identity as a core part of the company's positioning.
+
+The current concept is:
+
+The Closed-Loop Feedback Architecture.
+
+It describes the relationship between:
+1. Signal Capture
+2. Architecture Adaptation
+3. Cognitive Acceleration
+
+Review the content for clarity and credibility.
+
+Remove unsupported technical claims and unnecessary wording.
+
+Visually, make this page distinctive from the other About pages.
+
+A restrained animated feedback loop or connected process diagram is appropriate.
+
+Do not turn it into a complicated technical architecture diagram.
+
+## Our Values
+
+Keep the page but review every claim.
+
+Current themes include:
+- Full Intellectual Property Transfer
+- Commercial Integrity
+- Speed with Structural Discipline
+- Worldwide Standards
+
+Retain only promises and commitments that the company can genuinely stand behind.
+
+In particular, do not make absolute guarantees about intellectual property, delivery timelines, compliance, or worldwide support without verification.
+
+Use clean, balanced cards with concise descriptions.
+
+## Brand Identity System
+
+Keep this page.
+
+Preserve the existing approved logo and actual brand identity assets.
+
+Do not invent new logo variations or change the brand symbol.
+
+Improve image presentation, spacing, and typography.
+
+Make the brand identity presentation clean and professional.
+
+---
+
+# 6. DIGITAL MARKETING — REVIEW AND REFINE
+
+The Digital Marketing section includes the following service pages:
+
+- Paid Advertising
+- Performance Marketing
+- Campaign Strategy
+- Audience Targeting
+- Conversion Rate Optimization
+- Marketing Analytics
+
+The final decision on the service list is REVIEW.
+
+Do not automatically remove all services or assume all descriptions are correct.
+
+Review each service and retain only what is genuinely relevant to the agency's actual offering.
+
+## Marketing Strategy
+
+Marketing Strategy is INCLUDED.
+
+Keep Campaign Strategy as a service and make sure strategic planning is represented in the Digital Marketing offering.
+
+## Analytics
+
+Analytics must remain BASIC.
+
+Do not position the agency as offering an extensive enterprise analytics or proprietary data science platform.
+
+Keep only practical marketing analytics and reporting capabilities that are genuinely deliverable.
+
+## Digital Marketing design direction
+
+The Digital Marketing section should retain its existing overall visual concept.
+
+Its main visual can continue using connected advertising channels and a conversion destination.
+
+Use visual elements related to:
+- Paid advertising
+- Advertising platforms
+- Campaign distribution
+- Audience targeting
+- Conversion
+- Performance optimization
+
+Possible restrained animations:
+- Advertising channels connecting to a conversion point
+- Subtle moving data particles
+- Active channel highlighting
+- Small changes in the flow of connections
+
+Avoid unnecessary animation or complicated diagrams.
+
+## Individual Digital Marketing service pages
+
+The existing service pages currently repeat many sections:
+- Hero
+- Channel visualization
+- Operational Inefficiencies & Hidden Risks
+- Our Engineered Solution
+- Deliverables & Concrete Artifacts
+- Target Performance Benchmarks
+- Our Working Methodology
+- Large visual placeholder
+- Related case studies
+- FAQs
+- CTA
+
+Do not preserve this repetitive structure blindly.
+
+Reorganize the content where necessary.
+
+Use only sections that add real value.
+
+Remove:
+- Repeated descriptions
+- Generic explanations
+- Unsupported performance figures
+- Artificial benchmarks
+- Empty or meaningless placeholders
+- Repeated CTA sections
+- Unnecessary technical language
+
+Do not fabricate numerical performance improvements.
+
+If no verified benchmark exists, use a qualitative explanation instead.
+
+Make each retained service page clear and specific to its actual service.
+
+Keep the design family consistent while allowing appropriate differences in each page's visual presentation.
+
+---
+
+# 7. CUSTOM SOFTWARE ENGINEERING — REVIEW AND REFINE
+
+Keep the exact pillar name:
+
+Custom Software Engineering
+
+The existing service pages include:
+
+- Custom Software Development
+- Web Application Development
+- Mobile Application Development
+- Business Management Systems
+- B2B Software Solutions
+- API Development & Integrations
+
+Review the actual relevance and accuracy of each page.
+
+Do not invent capabilities or technical guarantees.
+
+Remove unsupported claims, fabricated metrics, and repetitive descriptions.
+
+## Software visual direction
+
+This section should have a visual identity distinct from Digital Marketing.
+
+Use a restrained technical visual language related to:
+- Connected systems
+- Software architecture
+- Network structures
+- Data movement
+- API connections
+- Databases
+- Application infrastructure
+- Modular software components
+
+Possible animations:
+- Nodes connecting through a network
+- Data moving between system components
+- A simple architecture diagram
+- Subtle network activity
+- Components connecting and separating
+
+Each service page should have a visual that is relevant to that particular service.
+
+For example:
+- Custom Software Development: connected modular components
+- Web Applications: browser/application architecture
+- Mobile Applications: connected mobile devices and application layers
+- Business Management Systems: interconnected business modules
+- B2B Software: connected organizations, portals, and systems
+- API Development: data exchange between separate systems
+
+These are visual directions, not mandatory complex animations.
+
+Keep animations subtle, performant, and purposeful.
+
+Do not use the exact same generic network graphic on every page.
+
+The pages should feel related, but each should have its own appropriate visual identity.
+
+## Software content
+
+Use clear, understandable language.
+
+Avoid excessive technical terminology when it does not help the customer understand the service.
+
+Do not claim:
+- Guaranteed uptime
+- Specific response times
+- Guaranteed scalability
+- Unverified security certifications
+- Specific database performance
+- Production SLAs
+- Enterprise compliance
+- Any technical achievement without evidence
+
+Only mention technologies and capabilities that are actually supported by the project and agency.
+
+---
+
+# 8. AI SOLUTIONS — REVIEW AND REFINE
+
+The AI Solutions pillar includes:
+
+- AI Integration for Businesses
+- Business Process Automation
+- AI Assistants & Agents
+- Intelligent Business Workflows
+- Data Intelligence
+- Custom AI Solutions
+
+The following decisions are confirmed:
+
+| Service | Decision |
+|---|---|
+| AI Integration for Businesses | KEEP |
+| Business Process Automation | KEEP |
+| AI Assistants & Agents | KEEP |
+| Data Intelligence | REVIEW |
+| Custom AI Solutions | REVIEW |
+
+Review Data Intelligence and Custom AI Solutions carefully.
+
+Retain them only if the descriptions represent actual deliverable services.
+
+Do not invent proprietary models, infrastructure, or advanced AI research capabilities.
+
+## AI visual direction
+
+The AI section may use the existing neural-network/connected-brain concept as its visual starting point.
+
+Keep the visual restrained and professional.
+
+Possible animation:
+- Connected nodes forming a neural structure
+- Signals moving between nodes
+- Data flowing through an AI processing system
+- A subtle visual transformation from input to output
+
+Do not use a generic AI brain illustration on every page.
+
+Each AI service should have its own relevant visual variation.
+
+Examples:
+- AI Integration: an AI component connecting to existing business systems
+- Business Process Automation: a workflow with connected steps
+- AI Assistants & Agents: multiple agents coordinating tasks
+- Intelligent Business Workflows: a decision and routing diagram
+- Data Intelligence: only if retained, a clear data-to-insight visualization
+- Custom AI Solutions: only if retained, a custom model/system architecture visualization
+
+Avoid exaggerated claims about autonomous capabilities, accuracy, savings, or performance.
+
+---
+
+# 9. INDUSTRIES — REVIEW AND REFINE
+
+The Industries section currently includes:
+
+- E-commerce & Retail
+- Technology & SaaS
+- Professional Services
+- B2B Businesses
+
+Review each industry page.
+
+Keep only industries where the agency can describe a genuinely relevant offering.
+
+The current overall direction is worldwide service availability.
+
+Do not make the website appear restricted to a specific region.
+
+## Industry page content
+
+Each page should explain:
+1. The industry's actual business challenges
+2. Which 47 Agency capabilities are relevant
+3. What the agency can practically deliver
+4. How those services help the business
+
+Keep this concise.
+
+Avoid filling the page with multiple long paragraphs and repetitive cards.
+
+## Industry page layout
+
+Maintain a consistent page structure, but improve spacing and hierarchy.
+
+The current layout contains:
+- Industry introduction
+- Main industry focus
+- Market context
+- Sector bottlenecks
+- Integrated 47 Solution
+- Deployment profile
+- Consultation CTA
+
+Retain useful sections only.
+
+Remove repetitive explanations and unnecessary technical detail.
+
+Do not invent sector-specific clients, results, or deployments.
+
+Do not create fake technology preview images or pretend that a deployment exists when it does not.
+
+---
+
+# 10. OUR WORK — VERIFIED PROJECTS ONLY
+
+The current Our Work page contains project cards and an advertising campaign portfolio.
+
+The project information has not yet been fully confirmed.
+
+Therefore:
+
+DO NOT present unverified projects as completed client deployments.
+
+DO NOT invent:
+- Client names
+- Project histories
+- Results
+- Performance metrics
+- Technologies
+- Case studies
+- Campaign results
+- Client testimonials
+
+The current examples include:
+- Omnichannel Retail Commerce & Server-Side Tracking
+- Enterprise B2B Settlement Portal & Ledger System
+- Bilingual AI Assistant & Workflow Automation
+
+Treat these as unconfirmed until verified.
+
+Remove or temporarily hide any project that cannot be supported by actual evidence.
+
+Keep the page visually clean even if that means displaying fewer projects.
+
+## Advertising Campaign Portfolio
+
+Keep a small, clean structure for future real campaign screenshots.
+
+Do not fabricate campaign screenshots, numbers, or results.
+
+If verified screenshots are not available, keep the relevant section minimal or temporarily empty.
+
+Do not create fake case-study cards simply to fill the page.
+
+The objective is credibility, not quantity.
+
+---
+
+# 11. INSIGHTS — CONTENT QUALITY AND CREDIBILITY
+
+The Insights section currently contains categories:
+
+- Marketing Intelligence
+- Technology & Software
+- Artificial Intelligence
+- Business Growth
+
+Keep relevant categories where they genuinely support the agency's positioning.
+
+Review every existing article.
+
+The current page includes articles about:
+- Cookieless attribution and server-side CAPI
+- Pragmatic software architecture and microservices
+- Enterprise AI and operational ROI
+- GCC digital expansion
+
+Do not assume article dates, research, statistics, authorship, or technical claims are correct.
+
+Verify existing content before retaining it.
+
+Remove articles that are:
+- Generic filler
+- Unsupported
+- Repetitive
+- Incorrectly dated
+- Presented as original research without evidence
+
+Do not invent sources, authors, or research.
+
+Keep the Insights page focused and readable.
+
+Use a clean article-card layout with sufficient whitespace.
+
+Do not display one isolated card in a way that creates a visually broken or unbalanced layout.
+
+If there are too few verified articles, use a smaller but intentional layout rather than inventing more articles.
+
+---
+
+# 12. RESOURCES — REVIEW AND SIMPLIFY
+
+The Resources page currently contains:
+
+- Blueprints & Guides
+- AI Automation Payback Calculator
+- Master FAQs
+
+Review each section.
+
+## Blueprints & Guides
+
+Retain useful resources only.
+
+Do not display fake downloadable files.
+
+Do not use buttons that lead to nonfunctional routes.
+
+If a resource is unavailable, do not pretend it can be downloaded.
+
+## AI Automation Payback Calculator
+
+Keep this calculator only if it functions correctly.
+
+Verify:
+- Inputs work
+- Calculations are mathematically correct
+- Assumptions are visible
+- Results update correctly
+- No fabricated financial guarantees are displayed
+
+The current projected financial figures must not be presented as actual customer results.
+
+Clearly identify estimates as illustrative calculations.
+
+If the calculator cannot be made reliable, remove it rather than displaying misleading financial results.
+
+## Master FAQs
+
+Keep useful FAQs.
+
+Remove questions that make promises the agency cannot verify.
+
+Make answers concise and readable.
+
+Do not overload the page with unnecessary content.
+
+---
+
+# 13. FOOTER — KEEP THE GENERAL DESIGN
+
+Keep the existing footer structure and general visual direction.
+
+Do not redesign it unnecessarily.
+
+Apply the global typography improvements and the following content rules.
+
+## Company address
+
+Use this exact address:
+
+Gökevler Mah, Kristalşehir, Blok 16, Ofis 255, Adnan Kahveci, 34510 Esenyurt/İstanbul
+
+## Global Reach
+
+Keep:
+
+Serving Businesses Worldwide
+
+Retain a short description explaining that 47 Agency serves businesses worldwide.
+
+Do not imply that the company has offices in other countries.
+
+## Footer navigation
+
+Keep the relevant navigation columns:
+- About 47
+- Digital Marketing
+- Custom Software Engineering
+- AI Solutions
+
+Make sure every link points to the correct existing page.
+
+Remove broken, irrelevant, or duplicated links.
+
+Respect the final decisions regarding services that are retained, reviewed, or removed.
+
+## Verification claims
+
+Remove:
+- Commercial Registration Verified
+- Enterprise SLAs
+
+Unless these claims have been independently verified and the company has explicitly approved displaying them.
+
+Keep the copyright information.
+
+## Footer design
+
+- Maintain generous spacing.
+- Improve link readability.
+- Keep column alignment consistent.
+- Avoid excessive small text.
+- Do not add unnecessary visual effects.
+- Do not add animations just for decoration.
+
+---
+
+# 14. NAVIGATION, ROUTING, AND PAGE CONSISTENCY
+
+Review the entire navigation system.
+
+The approved main navigation includes:
+- About
+- Capabilities
+- Industries
+- Our Work
+- Insights
+- Resources
+- Start a Project
+
+Do not reintroduce removed navigation items such as Partnerships or Search.
+
+Ensure that:
+- Every dropdown works.
+- Every retained page is accessible.
+- Every CTA points to the correct destination.
+- No page links to deleted content.
+- No duplicate or broken routes exist.
+- Browser refresh works on individual routes.
+- Navigation works on desktop and mobile.
+
+The Capabilities menu should correctly expose the three pillars:
+- Digital Marketing
+- Custom Software Engineering
+- AI Solutions
+
+Each pillar should open its own overview page, with the relevant retained service pages accessible from that section.
+
+Do not allow service links, page tabs, dropdowns, or footer links to become inconsistent with one another.
+
+---
+
+# 15. ANIMATION AND VISUAL EXPERIENCE
+
+Use animation selectively and purposefully.
+
+The goal is a premium, polished experience — not a website full of movement.
+
+## Digital Marketing
+Use subtle advertising-channel and conversion-related motion.
+
+## Custom Software Engineering
+Use connected systems, network nodes, data flows, and architecture-related motion.
+
+## AI Solutions
+Use neural connections, data signals, workflow transitions, and intelligent processing visuals.
+
+## About
+Use a distinctive but restrained visual treatment for The 47 Method.
+
+## Other pages
+Use animation only where it genuinely improves understanding or visual quality.
+
+General animation requirements:
+- Smooth transitions
+- No distracting movement
+- No excessive particle effects
+- No heavy animation that affects loading
+- Respect reduced-motion preferences
+- Avoid unnecessary animation on text
+- Ensure mobile performance
+
+Animations must be technically reliable and must not interfere with navigation, text, buttons, or page interactions.
+
+---
+
+# 16. RESPONSIVE DESIGN AND PERFORMANCE
+
+Verify the entire website at:
+- Desktop
+- Laptop
+- Tablet
+- Mobile
+
+Check:
+- No horizontal overflow
+- No overlapping text
+- No broken card layouts
+- No clipped headings
+- No navigation collisions
+- No oversized animations
+- No unreadable small text
+- No inconsistent spacing
+- No broken buttons
+
+Ensure the site loads efficiently.
+
+Optimize assets and animations without changing the approved visual identity.
+
+Do not sacrifice readability or performance for visual effects.
+
+---
+
+# 17. FUNCTIONALITY AND QUALITY ASSURANCE
+
+After implementing changes, perform a complete project review.
+
+Test:
+- All main navigation links
+- All dropdown menus
+- All service page links
+- All industry tabs
+- All category filters
+- All CTA buttons
+- All FAQ interactions
+- All working calculators
+- All forms
+- All internal routes
+- All mobile navigation behavior
+
+Preserve the existing Start a Project form exactly as it currently works.
+
+Do not modify its:
+- Layout
+- Fields
+- Validation
+- Submission behavior
+- Integrations
+- Backend functionality
+
+Check for:
+- Console errors
+- Missing assets
+- Broken images
+- Build errors
+- Broken routes
+- CSS conflicts
+- Runtime errors
+- Mobile responsiveness issues
+
+Run the appropriate installation, build, and validation commands for the existing project.
+
+Do not claim that the website is fully tested if it has not actually been tested.
+
+---
+
+# 18. STRICT CONTENT RULES
+
+Throughout the entire website:
+
+- Never use the phrase "Media Buying".
+- Use Paid Ads, Paid Advertising, or another accurate approved term.
+- Do not create Automation as a separate top-level service pillar.
+- Do not invent services.
+- Do not invent client names.
+- Do not invent case studies.
+- Do not invent numerical results.
+- Do not invent certifications.
+- Do not invent company history.
+- Do not invent technical guarantees.
+- Do not invent research or statistics.
+- Do not add filler content to make pages look full.
+- Do not repeat the same description across multiple pages.
+- Do not add unnecessary explanatory paragraphs.
+
+Use professional, natural, human-written business language.
+
+Avoid generic AI marketing expressions, exaggerated claims, and robotic wording.
+
+The website should sound like a real, credible agency.
+
+---
+
+# 19. FINAL PROJECT DELIVERY — MANDATORY
+
+This requirement is critical.
+
+I need the COMPLETE, EDITABLE WEBSITE PROJECT as a downloadable ZIP file.
+
+Do not deliver only:
+- Screenshots
+- A website preview
+- A PDF
+- A design mockup
+- Compiled output
+- A partial source folder
+- A report describing the changes
+
+I need the entire project so I can download it and upload it to GitHub.
+
+The ZIP must contain:
+
+- Complete source code
+- All pages and routes
+- All components
+- All stylesheets
+- All fonts and required assets
+- All animations and visual assets
+- All configuration files
+- Package and dependency files
+- Required public assets
+- Project structure
+- README documentation
+- `.env.example` containing variable names and placeholder values only, with NO actual secrets
+
+Preserve the existing framework and project architecture unless a specific technical correction is necessary.
+
+## README requirements
+
+Include:
+- Project overview
+- Required runtime and dependencies
+- Installation instructions
+- Local development instructions
+- Build instructions
+- Environment variable setup
+- Deployment instructions
+- Any external integrations or configuration still required
+
+## ZIP requirements
+
+1. Prepare the complete final project.
+2. Verify that all required source files are included.
+3. Exclude unnecessary dependency folders, build caches, and secrets.
+4. Do not exclude source files or assets required to run the website.
+5. Generate the ZIP.
+6. Verify that the ZIP exists and can be downloaded.
+7. Provide a direct downloadable link to the ZIP in your final response.
+
+If Antigravity supports downloadable project artifacts, provide the actual download link.
+
+If direct ZIP delivery is not supported, provide the completed project through an accessible export/download mechanism inside Antigravity, with clear instructions for obtaining the entire project.
+
+Do not tell me that the project is ready without providing a real way to obtain the complete files.
+
+---
+
+# 20. FINAL ACCEPTANCE CONDITIONS
+
+The project is complete only when all of the following are true:
+
+- The homepage design remains unchanged except for approved typography adjustments.
+- All requested pages have been reviewed and revised.
+- The global font system is professional and consistent.
+- Unnecessary purple technical labels and numbering have been removed or neutralized.
+- Content is concise, clear, and credible.
+- The pages have sufficient whitespace and visual balance.
+- Digital Marketing, Software Engineering, and AI Solutions have distinct but consistent visual identities.
+- Animations are purposeful and performant.
+- The 47 Method remains.
+- Unconfirmed projects and unsupported claims are not presented as facts.
+- Navigation and internal links work.
+- The Start a Project form remains unchanged.
+- Desktop and mobile layouts work correctly.
+- The project builds successfully.
+- The complete editable project is delivered as a downloadable ZIP.
+
+## Final instruction
+
+Work carefully and systematically.
+
+Do not rush into broad redesigns.
+
+Do not change approved elements just because you think another design might look better.
+
+Do not make assumptions about the company's services, capabilities, history, projects, or results.
+
+When a page needs improvement, improve it without damaging the rest of the website.
+
+The final result should be a coherent, premium, professional 47 Agency website with clear messaging, restrained visual effects, strong typography, purposeful animation, and clean page structure.
+
+Most importantly: deliver the complete working source project as a ZIP that I can download and upload to GitHub.

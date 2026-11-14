@@ -1,0 +1,18 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 980 670' width='300' height='205'>
+  <rect width='100%' height='100%' fill='#08080a'/>
+  <defs>
+    <linearGradient id='facet' x1='0%' y1='0%' x2='100%' y2='100%'>
+      <stop offset='0%' stop-color='#C084FC'/>
+      <stop offset='45%' stop-color='#8B5CF6'/>
+      <stop offset='100%' stop-color='#4C1D95'/>
+    </linearGradient>
+  </defs>
+  <!-- 4 diagonal bar -->
+  <polygon points='440,0 440,160 160,440 0,440' fill='#ffffff'/>
+  <!-- 4 vertical top stem -->
+  <polygon points='470,0 530,0 530,160 470,160' fill='#ffffff'/>
+  <!-- purple facet -->
+  <polygon points='470,160 530,160 530,520 360,670 360,270' fill='url(#facet)'/>
+  <!-- 7 -->
+  <polygon points='560,0 980,0 490,670 650,670 820,160 560,160' fill='#ffffff'/>
+</svg>
